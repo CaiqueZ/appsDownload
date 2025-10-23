@@ -13,7 +13,7 @@ Um software 2 em 1 que funciona como **Sistema de Caixa (PDV)** e **Automatizado
 <p align="center">
   <strong>Para instalar o AutoNFCe, baixe o instalador universal:</strong>
   <br>
-  <a href="https://github.com/CaiqueZ/appsDownload/releases/tag/updater-v1.0.0.35">
+  <a href="https://github.com/CaiqueZ/appsDownload/releases/tag/updater-v1.0.0.35/updater.exe">
     <img src="https://img.shields.io/badge/BAIXAR%20INSTALADOR%20(Updater.exe)-brightgreen?style=for-the-badge&logo=download" alt="Baixar Instalador">
   </a>
   <br>
