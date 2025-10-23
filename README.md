@@ -38,21 +38,4 @@ Aqui você encontrará outros utilitários e programas.
       <th width="30%">Download</th>
     </tr>
   </thead>
-  <tbody>
-    <tr>
-      <td>
-        <strong>(Nome do Futuro Programa)</strong>
-        <br>
-        <small>(Ex: MeuApp de Notas)</small>
-      </td>
-      <td>
-        (Descrição do que este programa faz. Ex: Um editor de texto simples com backup na nuvem.)
-      </td>
-      <td>
-        <a href="[LINK DA RELEASE AQUI]">
-          <img src="https://img.shields.io/badge/Baixar%20Release-blue?style=for-the-badge" alt="Baixar (Nome do Programa)">
-        </a>
-      </td>
-    </tr>
-    </tbody>
 </table>
