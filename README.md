@@ -6,7 +6,7 @@ Bem-vindo ao repositório oficial de downloads e atualizações dos meus softwar
 
 ## 🚀 AutoNFCe (Software Principal)
 
-Software de gerenciamento e emissão de Nota Fiscal de Consumidor Eletrônica (NFC-e), desenvolvido em C#.
+Um software 2 em 1 que funciona como **Sistema de Caixa (PDV)** e **Automatizador de NFC-e**, utilizando um sistema de emissão já existente para agilizar o processo.
 
 <br>
 
