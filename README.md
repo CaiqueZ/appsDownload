@@ -1,33 +1,58 @@
-# AutoNFCe
+# Catálogo de Downloads - CaiqueZ
 
-Repositório oficial de download e atualizações do software AutoNFCe.
+Bem-vindo ao repositório oficial de downloads e atualizações dos meus softwares.
+
+---
+
+## 🚀 AutoNFCe (Software Principal)
+
+Software de gerenciamento e emissão de Nota Fiscal de Consumidor Eletrônica (NFC-e), desenvolvido em C#.
 
 <br>
 
 <p align="center">
+  <strong>Para instalar o AutoNFCe, baixe o instalador universal:</strong>
+  <br>
   <a href="https://github.com/CaiqueZ/appsDownload/releases">
-    <img src="https://img.shields.io/badge/BAIXAR%20INSTALADOR-brightgreen?style=for-the-badge&logo=download" alt="Baixar Instalador">
+    <img src="https://img.shields.io/badge/BAIXAR%20INSTALADOR%20(Updater.exe)-brightgreen?style=for-the-badge&logo=download" alt="Baixar Instalador">
   </a>
+  <br>
+  <small>Na página de downloads, procure pela release mais recente chamada <strong>"Updater"</strong> (ex: <code>Updater v1.0.1</code>) e baixe o <code>Updater.exe</code>.</small>
 </p>
 
 <br>
 
-## 🚀 Como Instalar
+O `Updater.exe` é o instalador e atualizador. Ele cuidará de baixar o **AutoNFCe** e manter ambos os programas atualizados automaticamente.
 
-Para baixar e instalar o programa, siga estes passos:
+---
 
-1.  Clique no botão **"Baixar Instalador"** acima para ir para a página de *Releases* (lançamentos).
-2.  Na página de *Releases*, procure pela versão mais recente chamada **"Updater"** (ex: `Updater v1.0.1`).
-3.  Em "Assets", baixe o arquivo `Updater.exe`.
-4.  Salve e execute o `Updater.exe`.
+## 📂 Outros Softwares
 
-O `Updater` cuidará da instalação do **AutoNFCe** e de todas as futuras atualizações automaticamente.
+Aqui você encontrará outros utilitários e programas.
 
-## 📝 Sobre o Software
-
-* **AutoNFCe:** Um software de gerenciamento e emissão de Nota Fiscal de Consumidor Eletrônica (NFC-e), desenvolvido em C#.
-* **Updater:** O programa instalador e atualizador. Ao ser iniciado, ele verifica se há uma nova versão do `AutoNFCe` (ou dele mesmo) e faz o download e instalação da versão mais recente.
-
-## 📦 Sobre este Repositório
-
-Este repositório (`appsDownload`) é usado exclusivamente para hospedar as *releases* públicas (binários, instaladores e pacotes de atualização) do AutoNFCe. O código-fonte do projeto é mantido em repositórios privados.
+<table>
+  <thead>
+    <tr>
+      <th width="30%">Programa</th>
+      <th>Descrição</th>
+      <th width="30%">Download</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <strong>(Nome do Futuro Programa)</strong>
+        <br>
+        <small>(Ex: MeuApp de Notas)</small>
+      </td>
+      <td>
+        (Descrição do que este programa faz. Ex: Um editor de texto simples com backup na nuvem.)
+      </td>
+      <td>
+        <a href="[LINK DA RELEASE AQUI]">
+          <img src="https://img.shields.io/badge/Baixar%20Release-blue?style=for-the-badge" alt="Baixar (Nome do Programa)">
+        </a>
+      </td>
+    </tr>
+    </tbody>
+</table>
